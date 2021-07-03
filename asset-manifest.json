@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/invoid-2ndround.git/static/css/main.882babe4.chunk.css",
+    "main.js": "/invoid-2ndround.git/static/js/main.94ddd2d4.chunk.js",
+    "main.js.map": "/invoid-2ndround.git/static/js/main.94ddd2d4.chunk.js.map",
+    "runtime-main.js": "/invoid-2ndround.git/static/js/runtime-main.9fad434a.js",
+    "runtime-main.js.map": "/invoid-2ndround.git/static/js/runtime-main.9fad434a.js.map",
+    "static/js/2.4d8e675c.chunk.js": "/invoid-2ndround.git/static/js/2.4d8e675c.chunk.js",
+    "static/js/2.4d8e675c.chunk.js.map": "/invoid-2ndround.git/static/js/2.4d8e675c.chunk.js.map",
+    "static/js/3.2475d28a.chunk.js": "/invoid-2ndround.git/static/js/3.2475d28a.chunk.js",
+    "static/js/3.2475d28a.chunk.js.map": "/invoid-2ndround.git/static/js/3.2475d28a.chunk.js.map",
+    "index.html": "/invoid-2ndround.git/index.html",
+    "static/css/main.882babe4.chunk.css.map": "/invoid-2ndround.git/static/css/main.882babe4.chunk.css.map",
+    "static/js/2.4d8e675c.chunk.js.LICENSE.txt": "/invoid-2ndround.git/static/js/2.4d8e675c.chunk.js.LICENSE.txt",
+    "static/media/bg-img.bf391b73.jpg": "/invoid-2ndround.git/static/media/bg-img.bf391b73.jpg",
+    "static/media/logo.6ce24c58.svg": "/invoid-2ndround.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fad434a.js",
+    "static/js/2.4d8e675c.chunk.js",
+    "static/css/main.882babe4.chunk.css",
+    "static/js/main.94ddd2d4.chunk.js"
+  ]
+}
